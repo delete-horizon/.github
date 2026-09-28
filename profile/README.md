@@ -1,4 +1,4 @@
-<img alt="Delete Horizon" src="https://raw.githubusercontent.com/delete-horizon/.github/master/logo.png" width="480">
+<img alt="Delete Horizon" src="https://drive.google.com/file/d/1tmaNMtqZtCWkLN5-NJH9O2UtYLlWEplZ/view" width="480">
 
 ### Delete the boundary between code and the world.
 
